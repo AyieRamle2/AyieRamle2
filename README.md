@@ -1,9 +1,9 @@
 - 👩‍💻 @AyieRamle2
 - 🎓 Autodidact
-- 📋 Technical Writer
-- 💼 Alternative Dispute Solution
-- 🏢 Community Support
-- 🏠 Pahang,Malaysia
+- 📋 Data Analyst
+- 💼 Technical Support
+- 🏢 Community Support Services
+- 🏠 Pahang, Malaysia
 - 💬 AyieRamle2
 
 
