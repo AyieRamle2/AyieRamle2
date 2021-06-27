@@ -1,10 +1,11 @@
-- 👩‍💻 @AyieRamle2
+- 👩‍💻 AyieRamle2
 - 🎓 Autodidact
 - 📋 Data Analyst
 - 💼 Technical Support
-- 🏢 Community Support Services
-- 🏠 Pahang, Malaysia
+- 🏢 Community Support Specialist
+- 🏠 Kuantan, Pahang, Malaysia
 - 💬 https://www.facebook.com/AyieRamle2
+- 🔗 https://developers.google.com/profile/u/113940250416513480475
 
 
 <!---
